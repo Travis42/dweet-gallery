@@ -3,7 +3,7 @@
 
 I just got a new office, and I was thinking, "What inspires me most?  What conveys the beauty of code most aptly?"
 
-"What would be really cheap to make, yet leverage a lot of other people's cleverness?"
+"What would be really cheap to make, yet leverages a lot of other people's cleverness?"
 
 The Dweet Gallery was born.
 - Work in progress (of course)
