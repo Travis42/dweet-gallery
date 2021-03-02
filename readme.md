@@ -1,7 +1,7 @@
 ![Dweet Gallery](https://www.dwitter.net/static/img/logo_small.png)  
 # Dweet Gallery: The Offline Dweet Viewer
 
-I just got a new office, and I was thinking, "What inspires me most?  What conveys the beauty of code most aptly?"
+I just got a new office, and was thinking, "What can I decorate this place with?  What inspires me most?  What conveys the beauty of code most aptly?"
 
 "What would be really cheap to make, yet leverages a lot of other people's cleverness?"
 
@@ -10,6 +10,9 @@ The Dweet Gallery was born.
 - The default HTML file runs the top 1000 dweets by 'awesome count' on a 10 minute timer, then randomly selects another
 - Suggestions for improvement / pull requests for actual improvement welcome
 - Trivia: the popularity of dweets on [dwitter.net](https://www.dwitter.net/) follows a [power law](https://en.wikipedia.org/wiki/Power_law#/media/File:Long_tail.svg)
+
+## This is what now?
+Raspberry Pi + Old Monitor + displaying the .html file in this repo = something way better than some boring, static pictures on your wall
 
 ## Credit Where Credit is Due:
 The fine people over at Dwitter.net made all the dweets.  Check out  [dwitter.net](https://www.dwitter.net/)
