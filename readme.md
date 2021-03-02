@@ -1,3 +1,4 @@
+![Dweet Gallery](https://www.dwitter.net/static/img/logo_small.png)  
 # Dweet Gallery: The Offline Dweet Viewer
 
 I just got a new office, and I was thinking, "What inspires me most?  What conveys the beauty of code most aptly?"
