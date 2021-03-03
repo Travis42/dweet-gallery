@@ -58,8 +58,7 @@ for
 
 
 ## Serving
-python -m http.server
-(or similar)
+Just run the .html file in your browser
 
 
 ## The 'Engine'
